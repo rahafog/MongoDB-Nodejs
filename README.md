@@ -13,3 +13,4 @@ To run this project:
 ###### 3- install the necessary modules:
 - `npm install express mongoose cors jsonwebtoken bcryptjs --save `
 ###### 4- run the application 
+- `npm start`
